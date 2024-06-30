@@ -7,7 +7,7 @@
 ### Более подробно о моем опыте можно узнать в моем [резюме](https://cv.hexlet.io/ru/resumes/3591)
 
 ## Инструменты:
-[HTML]() [CSS]() [JavaScript]() [HTTP]() [Git]() [node.js]()
+![html js css](htmljscss.png) ![HTTP](http.png) ![Git](git.png) ![node.js](node.png)
 
 <!--
 **Dulybnis/Dulybnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
