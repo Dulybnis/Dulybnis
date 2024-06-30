@@ -9,6 +9,9 @@
 ## Инструменты:
 ![html js css](htmljscss.png) ![HTTP](http.png) ![Git](git.png) ![node.js](node.png)
 
+## Контакты:
+[![hexlet](hexlet.jpg)](https://ru.hexlet.io/u/dulybnis) [![telegram](telegram.png)](https://t.me/@Dulybaden) [![email](email.png)](mailto:ddn555@yandex.ru)
+
 <!--
 **Dulybnis/Dulybnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
