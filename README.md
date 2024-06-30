@@ -4,9 +4,10 @@
 Я учусь на JavaScript разработчика. Хочу сделать разработку частью своей жизни.
 С обучением помогает онлайн школа Hexlet.
 
-Более подробно о моем опыте можно узнать в моем [резюме](https://cv.hexlet.io/ru/resumes/3591)
+### Более подробно о моем опыте можно узнать в моем [резюме](https://cv.hexlet.io/ru/resumes/3591)
 
-
+## Инструменты:
+[HTML]() [CSS]() [JavaScript]() [HTTP]() [Git]() [node.js]()
 
 <!--
 **Dulybnis/Dulybnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
